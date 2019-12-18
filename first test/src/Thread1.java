@@ -42,7 +42,7 @@ public class Thread1 extends Thread{
 				
 			catch(Exception e) {
 				
-				System.out.println("Exception in Thread0");
+				System.out.println("Exception in Thread-0");
 				
 			
 			
