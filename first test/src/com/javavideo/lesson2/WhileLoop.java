@@ -7,7 +7,7 @@ public class WhileLoop {
 	boolean pagla=true;
 		int logo=23;
 	while (pagla) {
-		System.out.println("charbo na bara");
+		System.out.println("All is good");
 		logo++;
 		if (logo>100)
 			pagla=false;
